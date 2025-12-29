@@ -5,6 +5,11 @@ Welcome to Revature.
 ## [Notes Repo](https://github.com/TRNG-00002349/Notes)
 I'll upload all notes here. I'll add them as we go, and may include topics which aren't on the curriculum.
 
+## [Code Challenges](https://github.com/TRNG-00002349/Code-Challenges)
+Leetcodes, neetcodes, and hackerranks oh my!
+
+
+
 ## Roadmap
 Here's the outline for the next 6 weeks of training:
  - Week 1: Orientation, Git, Java Review
