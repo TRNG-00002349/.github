@@ -84,5 +84,6 @@ We will build DAOs here to access a SQL database using the built in Java JDBC li
   - At least one uppercase letter
   - At least one lowercase letter
   - At least one number
+- Passwords must be hashed, no plain text
 - Users cannot follow themselves
 - Users cannot follow the same user more than once
