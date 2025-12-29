@@ -1,7 +1,7 @@
 # Project 1: Java API
 This first project will be in progress for the first three weeks of training. This will coincide with the training topics of Java, SQL, JDBC, and REST with Javalin. We will be building a server API with no front end UI, and simple authentication/authorization.
 
-> ```This project is a REST API built with Java, Javalin, JDBC, and SQL that implements user authentication, content management, and social features. The application follows a 3-tier architecture (Presentation, Service, Data layers) and includes secure user registration/login, CRUD operations for a generic content entity, and the ability for users to follow each other. The project requires proper validation, password hashing, and query filtering while working with a relational database using JDBC. The domain and content type are intentionally left unspecified, allowing students to theme their project around any topic of interest.```
+> ```This project is a REST API built with Java, Javalin, JDBC, and SQL that implements user authentication, content management, and social features. The application follows a 3-tier architecture (Presentation, Service, Data layers) and includes secure user registration/login, CRUD operations for a generic content entity, and the ability for users to follow each other. The project requires proper validation, password hashing, and query filtering while working with a relational database using JDBC. The domain and content type are intentionally left unspecified, allowing associates to theme their project around any topic of interest.```
 
 We will follow a [Multitier Architecture](https://en.wikipedia.org/wiki/Multitier_architecture) with 3 layers:
  - Presentation Layer (Web Controllers)
